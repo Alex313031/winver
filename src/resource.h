@@ -9,3 +9,5 @@
 #define IDS_COPYRIGHT_WIN95       22
 #define IDS_COPYRIGHT_WIN98       23
 #define IDS_COPYRIGHT_WIN98SE     24
+#define IDS_WINME                 25
+#define IDS_COPYRIGHT_WINME       26

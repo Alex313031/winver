@@ -18,3 +18,4 @@ the following values:
 - 0 - Windows 95, default
 - 1 - Windows 98
 - 2 - Windows 98 SE (1999 copyright date)
+- 3 - Windows Me
