@@ -23,6 +23,6 @@ STRINGTABLE
 	IDS_COPYRIGHT_WIN95    "Copyright © 1981-1995, Microsoft Corp."
 	IDS_COPYRIGHT_WIN98    "Copyright © 1981-1998, Microsoft Corp."
 	IDS_COPYRIGHT_WIN98SE  "Copyright © 1981-1999, Microsoft Corp."
-	IDS_WINME              "Windows Millenium Edition"
+	IDS_WINME              "Windows Millennium Edition"
 	IDS_COPYRIGHT_WINME    "Copyright © 1981-2000, Microsoft Corp."
 }
